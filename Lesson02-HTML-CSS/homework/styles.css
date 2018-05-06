@@ -1,22 +1,31 @@
-      h1 {
-          Color:red;
+     
+     
+    body {
+        text-align: center;
+        background-color: gold;
+      }
+     h1 {
+          Color:Black;
+          
         } 
 
       img{
           Width:400px;
+    
+        
     }
 
     
        #thirdDiv{
              height:600px ;
              width:500px;
-             background-color:gold;
+             background-color:none;
              padding:50px;
-             border: 1px solid black;
-             color:blue;
+             color:red;
+            
       }
-     .divClass,#spanId {
+     #spanId {
            margin:50px;
            font-size: 18px;
             }
-    
+     
