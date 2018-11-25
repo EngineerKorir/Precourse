@@ -1,0 +1,31 @@
+     
+     
+    body {
+        text-align: center;
+        background-color: gold;
+      }
+     h1 {
+          Color:Black;
+          
+        } 
+
+      img{
+          Width:400px;
+    
+        
+    }
+
+    
+       #thirdDiv{
+             height:600px ;
+             width:500px;
+             background-color:none;
+             padding:50px;
+             color:red;
+            
+      }
+     #spanId {
+           margin:50px;
+           font-size: 18px;
+            }
+     
